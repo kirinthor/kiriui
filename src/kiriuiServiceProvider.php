@@ -1,8 +1,8 @@
 <?php
 
 namespace kiriui;
-use kiriui\Component\BladeComponent;
-use kiriui\Component\LivewireComponent;
+use kiriui\Components\BladeComponent;
+use kiriui\Components\LivewireComponent;
 
 use kiriui\Console\PublishCommand;
 use Illuminate\Support\Facades\Blade;

@@ -1,5 +1,5 @@
 <?php
-namespace kiriui\Component;
+namespace kiriui\Components;
 
 use Illuminate\View\Component as IlluminateComponent;
 

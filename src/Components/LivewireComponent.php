@@ -1,6 +1,6 @@
 <?php
 
-namespace kiriui\Component;
+namespace kiriui\Components;
 
 use Livewire\Component;
 
